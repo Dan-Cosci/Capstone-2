@@ -1,4 +1,28 @@
 body {
   margin: 0px;
   background-color: #0e1113;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.orange-button {
+  background-color: orangered;
+  border-radius: 50px;
+  border: none;
+  color: white;
+  padding: 16px 15px 16px 15px;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.grey-button {
+  background-color: #333d42;
+  border-radius: 50px;
+  border: none;
+  color: white;
+  padding: 16px 15px 16px 15px;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0px;
 }
